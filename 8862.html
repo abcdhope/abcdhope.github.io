@@ -5,10 +5,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="keywords" content="通讯即时系统, abcdhope的博客">
-    <meta name="description" content="基础server构建本节主要是建立链接。
-通过net.listen来监听端口，通过Listener.Accept()来接收客户端的请求，然后利用go来进行处理多个请求链接。
-type Server struct &amp;#123;
-	Ip   s">
+    <meta name="description" content="本文是对8小时转职Golang工程师(如果你想低成本学习Go语言)_哔哩哔哩_bilibili里的即时通信系统demo进行总结。
+基础server构建本节主要是建立链接。
+通过net.listen来监听端口，通过Listener.Accep">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -403,7 +402,8 @@ type Server struct &amp;#123;
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h1 id="基础server构建"><a href="#基础server构建" class="headerlink" title="基础server构建"></a>基础server构建</h1><p>本节主要是建立链接。</p>
+                <p>本文是对<a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1gf4y1r79E?p=37&vd_source=ee53bed98445adb36a8ecd71465f6240">8小时转职Golang工程师(如果你想低成本学习Go语言)_哔哩哔哩_bilibili</a>里的即时通信系统demo进行总结。</p>
+<h1 id="基础server构建"><a href="#基础server构建" class="headerlink" title="基础server构建"></a>基础server构建</h1><p>本节主要是建立链接。</p>
 <p>通过<code>net.listen</code>来监听端口，通过<code>Listener.Accept()</code>来接收客户端的请求，然后利用go来进行处理多个请求链接。</p>
 <pre class="language-go" data-language="go"><code class="language-go">type Server struct &#123;
 	Ip   string
