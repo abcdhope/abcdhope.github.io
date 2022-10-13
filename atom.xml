@@ -6,7 +6,7 @@
   <link href="https://abcdhope.github.io/atom.xml" rel="self"/>
   
   <link href="https://abcdhope.github.io/"/>
-  <updated>2022-10-10T01:13:21.584Z</updated>
+  <updated>2022-10-13T02:54:42.152Z</updated>
   <id>https://abcdhope.github.io/</id>
   
   <author>
@@ -17,12 +17,46 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Go专家编程之控制结构</title>
+    <link href="https://abcdhope.github.io/17524.html"/>
+    <id>https://abcdhope.github.io/17524.html</id>
+    <published>2022-10-13T02:53:50.000Z</published>
+    <updated>2022-10-13T02:54:42.152Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;select&quot;&gt;&lt;a href=&quot;#select&quot; class=&quot;headerlink&quot; title=&quot;select&quot;&gt;&lt;/a&gt;select&lt;/h1&gt;&lt;p&gt;select用于检测多个管道是否就绪。&lt;/p&gt;
+&lt;h2 id=&quot;特性速览&quot;&gt;&lt;a href=&quot;#特性速览&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Go" scheme="https://abcdhope.github.io/categories/Go/"/>
+    
+    
+    <category term="Go专家编程" scheme="https://abcdhope.github.io/tags/Go%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Go专家编程之常见数据结构</title>
     <link href="https://abcdhope.github.io/7442.html"/>
     <id>https://abcdhope.github.io/7442.html</id>
     <published>2022-10-10T01:12:45.000Z</published>
-    <updated>2022-10-10T01:13:21.584Z</updated>
+    <updated>2022-10-10T01:34:35.147Z</updated>
     
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;chan&quot;&gt;&lt;a href=&quot;#chan&quot; class=&quot;headerlink&quot;</summary>
+        
+      
     
     
     
